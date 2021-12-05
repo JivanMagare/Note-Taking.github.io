@@ -158,6 +158,7 @@ select{
     select {
         font-size: 0.5rem;
         text-align: left;
+        width: 13rem;
     }
 
     select option{
