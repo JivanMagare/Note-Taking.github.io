@@ -176,6 +176,12 @@ select{
     }
 }
 
+@media (max-width: 768px) {
+    body{
+        height: 100vh;
+    }
+}
+
 nav #one,#two{
     width: 50%;
     height: 2rem;
